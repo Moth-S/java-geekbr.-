@@ -25,5 +25,6 @@ public class task1 {
             System.out.print(Array[index] + " ");
 
         } 
+        iScanner.close();
     }
 }
