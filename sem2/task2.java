@@ -30,7 +30,7 @@ public class task2 {
         } else {
             System.out.println("не возрастающая");
         }
-
+        iScanner.close();
         }
     }
 
